@@ -1,0 +1,2 @@
+# Automatic-Garden-Monitoring-and-Controlling-using-IOT
+An automated gardening system refers to a garden where all aspects of gardening are automated.Here the information regarding garden(Temperature,Humidity and Moisture) is processed through arduino and uploaded to cloud(Thingspeak) using ESP-8266 01 module. Data from cloud can be extracted by us. Thus we can monitor real time data of garden. Also we ensure automatic control of garden using the program written in arduino ide and the relay circuits.
